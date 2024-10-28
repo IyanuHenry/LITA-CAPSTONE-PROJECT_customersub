@@ -21,3 +21,25 @@ The dataset used for this analysis was provided by Incubator Hub, an educational
    - Built interactive dashboards to visualize sales performance and customer data.
    - Performed data cleaning and transformation to ensure accurate visual representation.
    - Created detailed visualizations to highlight regional performance, top-selling products, and customer segmentation.
+
+### Data Cleaning and Preparation
+1. Data Loading and Inspection
+   
+    a. Microsoft Excel:
+      - Imported the dataset into Excel and expanded the worksheet table to inspect all data fields.
+      - To check for duplicates: Highlighted the entire table.
+      - Clicked on the Data tab and selected Remove Duplicates to identify and eliminate any redundant records.
+        
+    b. SQL Server:
+       - Imported data by creating a new database in SQL Server
+       - Created a database, right-clicked on it, and selected Import Data to load the dataset.
+       - Used SQL commands to remove excess columns and rows directly:
+       - To delete unnecessary columns and to delete rows with missing CustomerID values.
+   
+    ```SQL
+    ALTER TABLE [dbo].[LITA Capstone Dataset_Ruth] DROP COLUMN column10;
+
+```SQL 
+DELETE FROM [dbo].[LITA Capstone Dataset_Ruth] WHERE CustomerID IS NULL;
+
+   
