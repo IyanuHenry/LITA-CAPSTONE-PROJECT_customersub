@@ -43,4 +43,7 @@ The dataset used for this analysis was provided by Incubator Hub, an educational
 ```SQL 
 DELETE FROM [dbo].[LITA Capstone Dataset_Ruth] WHERE CustomerID IS NULL;
 
+
+
+
    
