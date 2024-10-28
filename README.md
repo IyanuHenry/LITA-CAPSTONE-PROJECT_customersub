@@ -25,23 +25,31 @@ The dataset used for this analysis was provided by Incubator Hub, an educational
 ### Data Cleaning and Preparation
 1. Data Loading and Inspection
    
-    a. Microsoft Excel:
+   a. Microsoft Excel:
       - Imported the dataset into Excel and expanded the worksheet table to inspect all data fields.
       - To check for duplicates: Highlighted the entire table.
       - Clicked on the Data tab and selected Remove Duplicates to identify and eliminate any redundant records.
         
-    b. SQL Server:
-       - Imported data by creating a new database in SQL Server
-       - Created a database, right-clicked on it, and selected Import Data to load the dataset.
-       - Used SQL commands to remove excess columns and rows directly:
-       - To delete unnecessary columns and to delete rows with missing CustomerID values.
+   b. SQL Server:
+      - Imported data by creating a new database in SQL Server
+      - Created a database, right-clicked on it, and selected Import Data to load the dataset.
+      - Used SQL commands to remove excess columns and rows directly:
+      - To delete unnecessary columns and to delete rows with missing CustomerID values.
    
-    ```SQL
-    ALTER TABLE [dbo].[LITA Capstone Dataset_Ruth] DROP COLUMN column10;
-    
+   c. Power BI:
+     - Loaded the data via the Get Data option and entered Power Query Editor;
+     - Examined the column distribution by selecting Column Quality and Column Distribution to check for duplicates, blanks, and unique values.
+     - Used Remove Duplicates and Transform Data to further clean the dataset.
+   
+      ```SQL
+      ALTER TABLE [dbo].[LITA Capstone Dataset_Ruth] DROP COLUMN column10;
+      DELETE FROM [dbo].[LITA Capstone Dataset_Ruth] WHERE CustomerID IS NULL;
 
-```SQL 
-DELETE FROM [dbo].[LITA Capstone Dataset_Ruth] WHERE CustomerID IS NULL;
+   
+
+
+![Drop and delete](https://github.com/user-attachments/assets/35e32130-8367-477d-b9df-924e9897206c)
+
 
 
 
