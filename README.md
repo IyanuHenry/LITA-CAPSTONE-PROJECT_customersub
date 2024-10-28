@@ -51,6 +51,13 @@ The dataset used for this analysis was provided by Incubator Hub, an educational
 
 ![Drop and delete](https://github.com/user-attachments/assets/35e32130-8367-477d-b9df-924e9897206c)
 
+2. Handling Missing Variables
+   
+    a. Microsoft Excel: Used functions like IF to address missing values and removed irrelevant records.
+   
+    b. SQL: Managed missing values by applying IS NULL checks or using conditional replacements with COALESCE.
+   
+    c. Power BI: Leveraged Power Query’s fill, replace, or remove functions to handle null values.
 
 
 
