@@ -66,6 +66,8 @@ The dataset used for this analysis was provided by Incubator Hub, an educational
    c. Power BI:
       - In the Power Query Editor, used tools to fill, replace, or remove null values as necessary.
       - Added calculated columns when required to address missing data, ensuring consistent and reliable metrics across datasets.
+        
+![Screenshot (71)](https://github.com/user-attachments/assets/95142c69-ccd6-4e8b-b49c-abedaf167a28)
 
 
 
