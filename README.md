@@ -75,6 +75,15 @@ The dataset used for this analysis was provided by Incubator Hub, an educational
     - Standardized formats for fields such as dates, currency, and text case. Utilized tools like Text-to-Columns and Find & Replace for consistent formatting.
     - Ensured that all relevant columns were formatted correctly to facilitate accurate calculations and visualizations, such as using currency formatting for sales figures and date 
       formatting for any date fields.
+      
+   b. SQL:
+      - Checked and adjusted data types for each column to ensure consistency and correctness. Used commands like ALTER TABLE to modify data types where necessary.
+      - Applied functions like *UPPER*, *LOWER*, *CAST*, and *CONVERT* to ensure uniform data formats, particularly for dates and text-based variables, ensuring all data entries matched 
+        the expected type for analysis.
+        
+   c. Power BI:
+      - Used Power Query transformations to apply consistent data formats, rename columns, and ensure data types matched requirements for visualization.
+
 
 
 
