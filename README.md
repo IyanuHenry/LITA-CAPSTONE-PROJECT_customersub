@@ -52,12 +52,20 @@ The dataset used for this analysis was provided by Incubator Hub, an educational
 ![Drop and delete](https://github.com/user-attachments/assets/35e32130-8367-477d-b9df-924e9897206c)
 
 2. Handling Missing Variables
+
+   a. Microsoft Excel:
+      - Added columns to support further analysis and fill in essential metrics:
+      - Sales Revenue: Used the formula =SUM(Quantity * Unit Price) in a new column to calculate sales revenue for each entry in the retail store data.
+      - Subscription Duration: Added a column to calculate the duration of each subscription in the subscription service dataset.
+      - Ensured all calculations were complete to support downstream analysis.
    
-    a. Microsoft Excel: Used functions like IF to address missing values and removed irrelevant records.
+   b. SQL- Sturctured Query Language:
+      - Used the IS NULL function to locate and handle missing values in key fields.
+      - Deleted rows with null values in critical fields, such as CustomerID, ensuring data integrity for further analysis.
    
-    b. SQL: Managed missing values by applying IS NULL checks or using conditional replacements with COALESCE.
-   
-    c. Power BI: Leveraged Power Query’s fill, replace, or remove functions to handle null values.
+   c. Power BI:
+      - In the Power Query Editor, used tools to fill, replace, or remove null values as necessary.
+      - Added calculated columns when required to address missing data, ensuring consistent and reliable metrics across datasets.
 
 
 
