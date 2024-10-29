@@ -70,6 +70,14 @@ The dataset used for this analysis was provided by Incubator Hub, an educational
 ![Screenshot (71)](https://github.com/user-attachments/assets/95142c69-ccd6-4e8b-b49c-abedaf167a28)
 
 
+3. Data Cleaning and Formatting
+   a. Microsoft Excel:
+    - Standardized formats for fields such as dates, currency, and text case. Utilized tools like Text-to-Columns and Find & Replace for consistent formatting.
+    - Ensured that all relevant columns were formatted correctly to facilitate accurate calculations and visualizations, such as using currency formatting for sales figures and date 
+      formatting for any date fields.
+
+
+
 
 
    
