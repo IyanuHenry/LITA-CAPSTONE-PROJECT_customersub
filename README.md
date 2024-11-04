@@ -79,6 +79,9 @@ The data analysis process for the subscription service customer data aimed to un
 3. Customer Segmentation
    - Demographic Analysis: Segmented customers based on demographics and subscription behaviors, employing SQL queries to categorize customers into meaningful segments (e.g, geographic locations).
    - Lifetime Value Calculation: Estimated customer lifetime value (CLV) by analyzing subscription duration and average spending, informing retention strategies.
+  
+     ![subDuration](https://github.com/user-attachments/assets/d32ef22d-5888-48b4-ad51-0cf8487e1edc)
+
      
 3. Trend Analysis
    - Retention Trends: Analyzed retention rates over time using line graphs in Power BI to identify periods of high churn and evaluate the effectiveness of retention initiatives.
@@ -87,6 +90,9 @@ The data analysis process for the subscription service customer data aimed to un
 4. Insights Generation
    - Actionable Insights: Derived actionable insights, such as identifying high-value segments that require tailored marketing efforts and strategies to improve retention rates among at-risk customers.
    - Reporting: Presented findings in a comprehensive report format, including visualizations to support recommendations for enhancing customer engagement and retention strategies.
+  
+### Data Visualization
+
 
 
 
