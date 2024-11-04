@@ -66,6 +66,31 @@ The source of the data was provided by Incubator Hub, which is an educational te
    c. Power BI:
       - Applied consistent formats and renamed columns as necessary.
 
+### Data Analysis Process
+
+The data analysis process for the subscription service customer data aimed to uncover customer behaviors and retention trends.
+
+1. Data Exploration
+   - Initial Review: Reviewed customer data to understand its structure and identify variables related to customer demographics, subscription durations, and spending.
+
+2. Descriptive Statistics
+   - Subscription Duration Calculation: Calculated the subscription duration in Excel, providing insights into customer retention and loyalty patterns.
+  
+3. Customer Segmentation
+   - Demographic Analysis: Segmented customers based on demographics and subscription behaviors, employing SQL queries to categorize customers into meaningful segments (e.g, geographic locations).
+   - Lifetime Value Calculation: Estimated customer lifetime value (CLV) by analyzing subscription duration and average spending, informing retention strategies.
+     
+3. Trend Analysis
+   - Retention Trends: Analyzed retention rates over time using line graphs in Power BI to identify periods of high churn and evaluate the effectiveness of retention initiatives.
+   - Spending Patterns: Examined spending trends among different customer segments, employing scatter plots and bar charts to visualize correlations between subscription duration and spending.
+
+4. Insights Generation
+   - Actionable Insights: Derived actionable insights, such as identifying high-value segments that require tailored marketing efforts and strategies to improve retention rates among at-risk customers.
+   - Reporting: Presented findings in a comprehensive report format, including visualizations to support recommendations for enhancing customer engagement and retention strategies.
+
+
+
+
 
 
 
