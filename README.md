@@ -93,7 +93,17 @@ The data analysis process for the subscription service customer data aimed to un
   
 ### Data Visualization
 
+    Data visualization revealed key patterns in customer behavior and retention.
 
+1. Interactive Trends Analysis
+   - Demographic Insights: Pie charts visualizing the proportion of different demographic segments among subscribers.
+   - Retention Dashboard: Metrics showcasing churn rates and renewal patterns over time.
+   - Subscription Type Visualization: Pie chart showing the distribution of subscription types.
+   - Revenue by Region: Bar chart for the sum of revenue by region.
+   - Active Customers Visualization: Bar chart visualizing the number of active customers.
+     
+Key Insights
+Identified high-value customer segments, renewal challenges, and feedback trends, guiding marketing and retention strategies.
 
 
 
