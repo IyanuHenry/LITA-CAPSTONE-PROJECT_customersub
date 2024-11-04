@@ -67,7 +67,6 @@ The source of the data was provided by Incubator Hub, which is an educational te
       - Applied consistent formats and renamed columns as necessary.
 
 ### Data Analysis Process
-
 The data analysis process for the subscription service customer data aimed to uncover customer behaviors and retention trends.
 
 1. Data Exploration
@@ -92,8 +91,7 @@ The data analysis process for the subscription service customer data aimed to un
    - Reporting: Presented findings in a comprehensive report format, including visualizations to support recommendations for enhancing customer engagement and retention strategies.
   
 ### Data Visualization
-
-    Data visualization revealed key patterns in customer behavior and retention.
+ Data visualization revealed key patterns in customer behavior and retention.
 
 1. Interactive Trends Analysis
    - Demographic Insights: Pie charts visualizing the proportion of different demographic segments among subscribers.
@@ -101,9 +99,25 @@ The data analysis process for the subscription service customer data aimed to un
    - Subscription Type Visualization: Pie chart showing the distribution of subscription types.
    - Revenue by Region: Bar chart for the sum of revenue by region.
    - Active Customers Visualization: Bar chart visualizing the number of active customers.
-     
-Key Insights
-Identified high-value customer segments, renewal challenges, and feedback trends, guiding marketing and retention strategies.
+
+![Subpivottable](https://github.com/user-attachments/assets/7f7a18a1-9421-404b-9a55-8ba0ebd06987)
+
+![Screenshot (91)](https://github.com/user-attachments/assets/3aea77da-09f1-4b70-8cd0-76e8fcdf4177)
+
+
+### Insights and Findings
+ - High-Value Customer Segments: East region exhibit higher average spending, indicating potential target markets for tailored marketing efforts.
+   
+ - Retention Opportunities: The analysis highlighted segments with lower renewal rates, prompting further investigation into customer satisfaction and potential areas for service improvement.
+   
+ - Subscription Preferences: Insights from the subscription type pie chart indicate basic type among customers, which can guide future service offerings and pricing strategies.
+   
+ - Geographic Performance: The revenue in the East region revealed strong performance, suggesting opportunities for expanding marketing efforts in underperforming regions especially West.
+   
+ - Active Customer Trends: The high number of active customers indicates the effectiveness of retention strategies and strong overall customer engagement.
+
+### Conclusion
+The analysis of subscription customer data highlights key insights into customer behavior and retention strategies. The East region shows higher average spending, presenting opportunities for targeted marketing. Retention analysis reveals segments with lower renewal rates, indicating a need for improved customer satisfaction. The preference for basic subscription types guides future service offerings, while strong revenue performance in the East suggests potential for expanding efforts in underperforming regions, especially the West. Overall, the high number of active customers reflects the effectiveness of current retention strategies and strong customer engagement.
 
 
 
