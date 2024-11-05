@@ -104,6 +104,19 @@ The data analysis process for the subscription service customer data aimed to un
 
 ![Screenshot (91)](https://github.com/user-attachments/assets/3aea77da-09f1-4b70-8cd0-76e8fcdf4177)
 
+2. Customer Segmentation Dashboard in Power BI
+   
+   -  Demographic Breakdown: Create a bar chart visual that categorizes customers by location (e.g., East, South, North, West).
+      This chart would provide an overview of customer demographics, helping you identify the regions where most customers are based.
+   
+   -  Subscription Duration Trends: Use a line graph to plot average subscription duration over time.
+      This will help in tracking retention trends, showing how long customers typically stay subscribed, and indicating any seasonal or time-based patterns.
+   
+   -  Renewal Rates Visualization: Design a stacked bar chart that segments renewal rates by customer demographics (e.g., region, subscription type).
+      This visualization could show the proportion of renewals versus cancellations within each segment, offering insights into customer loyalty across different demographics.
+   
+   -  Customer Spending Patterns: Implement a scatter plot to display the relationship between subscription duration and average spending per customer.
+      This scatter plot can reveal any correlation between how long customers stay subscribed and their spending levels, potentially highlighting high-value, long-term subscribers.
 
 ### Insights and Findings
  - High-Value Customer Segments: East region exhibit higher average spending, indicating potential target markets for tailored marketing efforts.
