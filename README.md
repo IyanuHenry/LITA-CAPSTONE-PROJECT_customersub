@@ -1,6 +1,17 @@
 # LITA-CAPSTONE-PROJECT
 project work
 
+Outline
+Project Overview
+Data Source
+Tools Used
+Data Cleaning and Preparation
+Data Analysis Process
+Data Visualization
+Insights and Findings
+Conclusion
+
+
 ### Project Overview
 The goal is to analyze customer data for a subscription service to identify segments and trends that influence customer retention and spending behavior.
 
