@@ -118,6 +118,13 @@ The data analysis process for the subscription service customer data aimed to un
    -  Customer Spending Patterns: Implement a scatter plot to display the relationship between subscription duration and average spending per customer.
       This scatter plot can reveal any correlation between how long customers stay subscribed and their spending levels, potentially highlighting high-value, long-term subscribers.
 
+      ![Screenshot (101)](https://github.com/user-attachments/assets/c7577ece-c8cb-4e9b-844d-ba5870da54ad)
+
+      ![Screenshot (102)](https://github.com/user-attachments/assets/26dc185b-d84b-497f-9f99-848a7411ebc6)
+
+      ![Screenshot (105)](https://github.com/user-attachments/assets/ee2ae853-6cc3-4ff9-be64-b10bfc068bbc)
+
+
 ### Insights and Findings
  - High-Value Customer Segments: East region exhibit higher average spending, indicating potential target markets for tailored marketing efforts.
    
